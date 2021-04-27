@@ -8,7 +8,6 @@ MA Gallery is a photo gallery web application to showcase beautiful pictures. Us
 - Users can also search for images based categories
 - Admin can upload images from a django dashboard
 
-
 ## Technologies Used
     - Python 3.6
     - Django
