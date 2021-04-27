@@ -37,7 +37,6 @@ Install dependancies that will create an environment for the app to run `pip3 in
     - psql
     - CREATE DATABASE gallery;
 
-
 #### Run initial Migration
     python3.6 manage.py makemigrations gallery
     python3.6 manage.py migrate
