@@ -47,7 +47,6 @@ Install dependancies that will create an environment for the app to run `pip3 in
 ## Known bugs
 No known bugs so far. If found drop me an email.
 
-
 ## Contributors
     - Mfuranzima Sandrine
 
